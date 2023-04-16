@@ -1,1 +1,1 @@
-# integracao-python-sqlite-mongodb
+Atividade de desafio de projeto da Formação Python Developer da DIO onde foi implementado uma aplicação de integração com SQLite com base em um esquema relacional disponibilizado. Sendo assim, foi utilizado o esquema dentro do contexto de cliente e conta para criar as classes da API. Essas classes representaram as tabelas do banco de dados relacional dentro da aplicação.
